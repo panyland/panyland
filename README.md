@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I'm Paavo Nyländen
 
-<!--
-**panyland/panyland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a biomedical engineering graduate student and sports science expert passionate about health technology, human performance, and data-driven wellness.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-paavonylanden-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/paavonylanden/)
+[![Website](https://img.shields.io/badge/Website-Portfolio-orange?style=flat-square&logo=google-chrome)](https://panyland.github.io/pofo-website/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 🔬 Research Associate @ JAMK University of Applied Sciences  
+- 🎓 MSc (Tech.) student in Biomedical Engineering @ Tampere University (2024–)
+- 🎓 MSc in Sport Sciences (Biomechanics) @ University of Jyväskylä (2019–2024)
+
+---
+
+## 🛠️ Skills
+
+**Domains:**  
+Biomechanics | Exercise Physiology | Data Science | AI for Health | Biomedical Signal Analysis
+
+**Tech Stack:**  
+Python | R | SQL | MATLAB | Unix | Apache Spark | Git
+
+---
+
+## 🚀 Portfolio
+
+You can find my projects and other code snippets [on my GitHub repositories](https://github.com/panyland?tab=repositories). 
+
+---
+
+## 📫 Contact Me
+
+📧 [paavo.nylanden@gmail.com](mailto:paavo.nylanden@gmail.com)  
+📍 Tampere, Finland  
+
+---
+
+
