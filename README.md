@@ -3,8 +3,7 @@
 I'm a biomedical engineering graduate student and sports science expert passionate about health technology, human performance, and data-driven wellness.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paavonylanden/)
-[![Personal Website](https://img.shields.io/badge/Website-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://panyland.github.io/pofo-website/)
-
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://panyland.github.io/pofo-website/)
 
 ---
 
