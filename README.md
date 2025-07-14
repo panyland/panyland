@@ -9,7 +9,7 @@ I'm a biomedical engineering graduate student and sports science expert passiona
 
 ## 🧠 About Me
 
-- 🔬 Research Associate @ JAMK University of Applied Sciences  
+- 🔬 Research Associate @ JAMK University of Applied Sciences (2023-)  
 - 🎓 MSc Student in Biomedical Engineering @ Tampere University (2024–)
 - 🎓 MSc in Sport Sciences (Biomechanics) @ University of Jyväskylä (2019–2024)
 
@@ -18,7 +18,7 @@ I'm a biomedical engineering graduate student and sports science expert passiona
 ## 🛠️ Skills
 
 **Domains:**  
-Sports Biomechanics | Exercise Physiology | mHealth | Data Science | Biomedical Signal Analysis
+Sports Biomechanics | Exercise Physiology | Biosignal Analysis | Data Science | mHealth
 
 **Tech Stack:**  
 Python | R | SQL | MATLAB | Unix | Apache Spark | Git
