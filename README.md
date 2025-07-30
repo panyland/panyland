@@ -11,14 +11,14 @@ I'm a biomedical engineering graduate student and sports science expert passiona
 
 - 🔬 Research Associate @ JAMK University of Applied Sciences (2023-)  
 - 🎓 MSc (Tech.) - Biomedical Engineering @ Tampere University (2024–)
-- 🎓 MSc - Sport Science/Biomechanics @ University of Jyväskylä (2019–2024)
+- 🎓 MSc - Sport Sciences/Biomechanics @ University of Jyväskylä (2019–2024)
 
 ---
 
 ## 🛠️ Skills
 
 **Domains:**  
-Sports Biomechanics | Exercise Physiology | Biomedical Informatics | Data Science
+Sports Biomechanics | Exercise Physiology | Biomedical Informatics | Digital Health
 
 **Tech Stack:**  
 Python | R | SQL | MATLAB | Unix | Git
