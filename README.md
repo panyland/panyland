@@ -18,7 +18,7 @@ I'm a biomedical engineering graduate student and sports science expert passiona
 ## 🛠️ Skills
 
 **Domains:**  
-Sports Biomechanics | Exercise Physiology | Biomedical Informatics | Digital Health
+Biomechanics | Exercise Physiology | Biosignal Analysis | Computational Physiology | Wearables
 
 **Tech Stack:**  
 Python | R | SQL | MATLAB | Unix | Git
