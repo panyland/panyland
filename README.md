@@ -2,14 +2,12 @@
 
 I'm in my final year of graduate studies in biomedical engineering and passionate about health technology, human performance, and data-driven wellness.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paavonylanden/)
-
 ---
 
 ## 🧠 About Me
 
 - 🔬 Research Associate @ JAMK University of Applied Sciences (2023-)  
-- 🎓 MSc - Biomedical Engineering @ Tampere University (2024–)
+- 🎓 MSc (Tech.) - Biomedical Engineering @ Tampere University (2024–)
 - 🎓 MSc/BSc - Biomechanics/Biology of Physical Activity @ University of Jyväskylä (2019–2024)
 
 ---
@@ -36,5 +34,3 @@ You can find my projects and other code snippets [on my GitHub repositories](htt
 📍 Tampere, Finland  
 
 ---
-
-
