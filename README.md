@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Paavo Nyländen
 
-I'm a biomedical engineering graduate student and sports science expert passionate about health technology, human performance, and data-driven wellness.
+I'm in my final year of graduate studies in biomedical engineering and passionate about health technology, human performance, and data-driven wellness.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paavonylanden/)
-[![Personal Website](https://img.shields.io/badge/Personal%20Website-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://panyland.github.io/pofo-website/)
 
 ---
 
@@ -18,7 +17,7 @@ I'm a biomedical engineering graduate student and sports science expert passiona
 ## 🛠️ Skills
 
 **Domains:**  
-Biomechanics | Exercise Physiology | Biosignal Analysis | Computational Physiology | Wearables
+Biomechanics | Human Physiology | Wearables | Biosignal Analysis | Computational Physiology
 
 **Tech Stack:**  
 Python | R | SQL | MATLAB | Unix | Git
