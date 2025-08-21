@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Paavo Nyländen
 
-I'm in my final year of graduate studies in biomedical engineering and passionate about health technology, human performance, and data-driven wellness.
+I'm in my final year of graduate studies in biomedical engineering, with a passion for health technology and data-driven approaches for enhancing well-being.
 
 ---
 
@@ -15,7 +15,7 @@ I'm in my final year of graduate studies in biomedical engineering and passionat
 ## 🛠️ Skills
 
 **Domains:**  
-Biomechanics | Human Physiology | Computational Biology | Biosignal Analysis | Data Science
+Biomechanics | Anatomy & Physiology | Computational Biology | Biosignal Analysis
 
 **Tech Stack:**  
 Python | R | SQL | MATLAB | Unix | Git
