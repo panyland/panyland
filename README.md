@@ -25,14 +25,8 @@ Python | R | SQL | MATLAB | Unix | Git
 You can find my projects and other code snippets [on my GitHub repositories](https://github.com/panyland?tab=repositories). 
 
 ### 📘 Academic Work
-
-- **MSc Thesis in Biomechanics**  
-  *Decoding Sensory Brain Signals*  
-  [Read on JYX Repository](https://jyx.jyu.fi/jyx/Record/jyx_123456789_96128?sid=188621864#)
-
-- **Publication in Aerospace Medicine and Human Performance**  
-  *Neck Strength Measurement Tool for Fighter Pilots*  
-  [View on PubMed](https://pubmed.ncbi.nlm.nih.gov/37194182/)
+- [Decoding Sensory Brain Signals](https://jyx.jyu.fi/jyx/Record/jyx_123456789_96128?sid=188621864#)
+- [Neck Strength Measurement Tool for Fighter Pilots](https://pubmed.ncbi.nlm.nih.gov/37194182/)
 
 ---
 
