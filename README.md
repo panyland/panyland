@@ -15,7 +15,7 @@ I'm in my final year of graduate studies in biomedical engineering, with a passi
 ## 🛠️ Skills
 
 **Domains:**  
-Biomechanics | Anatomy & Physiology | Computational Biology | Biosignal Analysis
+Biomechanics | Human Physiology | Biomedical Informatics | Wearable Technology | Signal Processing
 
 **Tech Stack:**  
 Python | R | SQL | MATLAB | Unix | Git
